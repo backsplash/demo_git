@@ -2,3 +2,4 @@
 Une demo de git qui se passe bien
 une 2eme ligne ajoutée directement en ligne sur GitHub.
 mais aussi depuis la machine locale
+encore une ligne depuis GitHub
